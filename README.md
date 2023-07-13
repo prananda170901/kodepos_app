@@ -6,7 +6,7 @@
 
 # Pengenalan tentang aplikasi kode pos
 
-(p)Aplikasi kode pos ini
+Aplikasi kode pos ini adalah sebuah aplikasi yang di rancang untuk membantu pengguna dalam mencari, menemukan, dan memperoleh informasi tentang kode pos suatu daerah atau lokasi tertentu kode pos digunakan sebagai sistem penomoran yang mempermudah proses pengiriman surat atau paket pos ke alamat yang tepat.
 
 # Source Code dan hasil
 
